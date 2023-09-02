@@ -1,0 +1,10 @@
+.gitignore
+.git/HEAD
+.git/index
+.git/refs/remotes/origin/main
+.git/logs/refs/remotes/origin/main
+.git/refs/remotes/origin/master
+.git/logs/refs/remotes/origin/master
+.git/refs/remotes/origin/dev
+.git/logs/refs/remotes/origin/dev
+.git/config
